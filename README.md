@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **web development projects**
 
-- 🌱 I’m currently learning **c++, c#, phyton, SQL, arduino, TailWind and SASS**
+- 🌱 I’m currently learning **anything**
 
 - 👯 I’m looking to collaborate on **web development, IoT, Game, Data Analyst**
 
