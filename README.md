@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **anything**
 
-- 👯 I’m looking to collaborate on **web development, IoT, Game, Data Analyst**
+- 👯 I’m looking to collaborate on **Mobile,web development, IoT, Game**
 
 - 📫 How to reach me **nibrasbadrun17@gmail.com**
 
