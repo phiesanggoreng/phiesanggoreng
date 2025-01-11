@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **IoT Project**
 
-- 🌱 I’m currently learning **anything**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **Mobile,web development, IoT, Game**
 
