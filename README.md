@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working on **IoT Project**
+- 🔭 I’m currently working on ** Eco Shroom**
 
 - 🌱 I’m currently learning **Machine Learning**
 
