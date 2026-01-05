@@ -1,3 +1,8 @@
+<!-- Nadeshiko Banner - Paling Atas 🌸 -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/dd/53/e6/dd53e6a29c0856a4de39049ad277ad18.gif" width="100%" alt="Nadeshiko Chan"/>
+</p>
+
 <!-- Header Banner - Warm Anime Style 🌸 -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27&height=200&section=header&text=✨%20Nibras%20Ahmad%20Badruzzaman%20✨&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=🍵%20Coding%20with%20warmth%20and%20passion%20🌸&descSize=16&descAlignY=55"/>
 
@@ -46,8 +51,7 @@ fields_of_interest:
   - Game Development
 
 currently_learning:
-  - "Machine Learning & AI"
-  - "Deep Learning"
+  -
 
 hobbies:
   - "Coding"
