@@ -6,11 +6,6 @@
 <!-- Header Banner - Warm Anime Style 🌸 -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27&height=200&section=header&text=✨%20Nibras%20Ahmad%20Badruzzaman%20✨&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=🍵%20Coding%20with%20warmth%20and%20passion%20🌸&descSize=16&descAlignY=55"/>
 
-<!-- Cozy Anime Banner -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/fb/cd/87/fbcd879075506a7fe16856225049be4a.gif" width="100%" alt="Cozy Anime Banner"/>
-</p>
-
 <!-- Animated Greeting - Warm Style -->
 <p align="center">
   <a href="https://github.com/phiesanggoreng">
