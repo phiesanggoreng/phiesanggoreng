@@ -77,7 +77,7 @@ fun_fact: "Baby steps lead to giant leaps! 👣➡️🚀"
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=phiesanggoreng&show_icons=true&theme=rose&hide_border=true&bg_color=FFF5F5&title_color=FF6B6B&icon_color=FF9A8B&text_color=6B5B5B&count_private=true&border_radius=15" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=phiesanggoreng&theme=rose&hide_border=true&background=FFF5F5&stroke=FFCDD2&ring=FF6B6B&fire=FF9800&currStreakLabel=FF6B6B&border_radius=15" alt="GitHub Streak"/>
+  <img width="49%" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=phiesanggoreng)](https://git.io/streak-stats)" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
