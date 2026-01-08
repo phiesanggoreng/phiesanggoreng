@@ -78,18 +78,22 @@ fun_fact: "Baby steps lead to giant leaps! 👣➡️🚀"
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phiesanggoreng&show_icons=true&theme=rose&hide_border=true&bg_color=FFF5F5&title_color=FF6B6B&icon_color=FF9A8B&text_color=6B5B5B&count_private=true&include_all_commits=true)
+<a href="https://github.com/phiesanggoreng">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phiesanggoreng&show_icons=true&theme=rose&hide_border=true&bg_color=FFF5F5&title_color=FF6B6B&icon_color=FF9A8B&text_color=6B5B5B&count_private=true&include_all_commits=true"/>
+</a>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=phiesanggoreng&theme=rose&hide_border=true&background=FFF5F5&ring=FF6B6B&fire=FF9A8B&currStreakLabel=FF6B6B&sideNums=6B5B5B&currStreakNum=FF6B6B&dates=6B5B5B&sideLabels=FF6B6B)
+<a href="https://github.com/phiesanggoreng">
+  <img height="180em" src="https://streak-stats.demolab.com?user=phiesanggoreng&theme=rose&hide_border=true&background=FFF5F5&ring=FF6B6B&fire=FF9A8B&currStreakLabel=FF6B6B&sideNums=6B5B5B&currStreakNum=FF6B6B&dates=6B5B5B&sideLabels=FF6B6B"/>
+</a>
 
 </div>
 
 <br/>
 
 <p align="center">
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phiesanggoreng&layout=compact&theme=rose&hide_border=true&bg_color=FFF5F5&title_color=FF6B6B&text_color=6B5B5B&langs_count=8)
-
+  <a href="https://github.com/phiesanggoreng">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phiesanggoreng&layout=compact&theme=rose&hide_border=true&bg_color=FFF5F5&title_color=FF6B6B&text_color=6B5B5B&langs_count=8"/>
+  </a>
 </p>
 
 ---
