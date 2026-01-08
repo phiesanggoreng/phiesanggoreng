@@ -34,9 +34,8 @@
 ```yaml
 name: Nibras Ahmad Badruzzaman
 located_in: Indonesia 🇮🇩
-current_focus:
-education:
-  -
+current_focus: Learning & Building
+education: Student
 
 fields_of_interest:
   - Machine Learning
@@ -46,7 +45,9 @@ fields_of_interest:
   - Game Development
 
 currently_learning:
-  -
+  - Advanced Flutter
+  - Cloud Technologies
+  - AI/ML Fundamentals
 
 hobbies:
   - "Coding"
@@ -77,7 +78,7 @@ fun_fact: "Baby steps lead to giant leaps! 👣➡️🚀"
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=phiesanggoreng&show_icons=true&theme=rose&hide_border=true&bg_color=FFF5F5&title_color=FF6B6B&icon_color=FF9A8B&text_color=6B5B5B&count_private=true&border_radius=15" alt="GitHub Stats"/>
-  <img width="49%" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=phiesanggoreng)](https://git.io/streak-stats)" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=phiesanggoreng&theme=rose&hide_border=true&background=FFF5F5&ring=FF6B6B&fire=FF9A8B&currStreakLabel=FF6B6B&sideNums=6B5B5B&currStreakNum=FF6B6B&dates=6B5B5B&sideLabels=FF6B6B&border_radius=15" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
@@ -91,7 +92,7 @@ fun_fact: "Baby steps lead to giant leaps! 👣➡️🚀"
 ## 🌅 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phiesanggoreng&theme=flamingo&hide_border=true&bg_color=FFF5F5&color=FF6B6B&line=FF9A8B&point=FFD93D&area=true&area_color=FFCDD2" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phiesanggoreng&theme=github-compact&bg_color=FFF5F5&color=FF6B6B&line=FF9A8B&point=FFD93D&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Activity Graph"/>
 </p>
 
 ---
