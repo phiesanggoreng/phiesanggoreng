@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/github/followers/phiesanggoreng?label=%F0%9F%8C%B8%20Friends&style=for-the-badge&color=ff9a9e" alt="GitHub Followers"/>
   </a>
   <a href="https://github.com/phiesanggoreng">
-    <img src="https://img.shields.io/github/stars/phiesanggoreng?label=%E2%AD%90%20Stars&style=for-the-badge&color=ffd93d" alt="GitHub Stars"/>
+    <img src="https://img.shields.io/github/stars/phiesanggoreng?label=%E2%AD%90%20Stars&style=for-the-badge&color=ffd93d&affiliations=OWNER" alt="GitHub Stars"/>
   </a>
 </p>
 
@@ -76,13 +76,15 @@ fun_fact: "Baby steps lead to giant leaps! 👣➡️🚀"
   <img src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif" width="200" alt="Cozy Coding"/>
 </p>
 
-<p align="center">
+<div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=phiesanggoreng&show_icons=true&theme=rose&hide_border=true&bg_color=FFF5F5&title_color=FF6B6B&icon_color=FF9A8B&text_color=6B5B5B&count_private=true&border_radius=15" alt="GitHub Stats"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=phiesanggoreng&theme=rose&hide_border=true&background=FFF5F5&ring=FF6B6B&fire=FF9A8B&currStreakLabel=FF6B6B&sideNums=6B5B5B&currStreakNum=FF6B6B&dates=6B5B5B&sideLabels=FF6B6B&border_radius=15" alt="GitHub Streak"/>
-</p>
+</div>
+
+<br/>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phiesanggoreng&layout=compact&theme=rose&hide_border=true&bg_color=FFF5F5&title_color=FF6B6B&text_color=6B5B5B&langs_count=8&border_radius=15" alt="Top Languages"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phiesanggoreng&layout=compact&theme=rose&hide_border=true&bg_color=FFF5F5&title_color=FF6B6B&text_color=6B5B5B&langs_count=8&border_radius=15" alt="Top Languages"/>
 </p>
 
 ---
