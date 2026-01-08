@@ -77,14 +77,19 @@ fun_fact: "Baby steps lead to giant leaps! 👣➡️🚀"
 </p>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=phiesanggoreng&show_icons=true&theme=rose&hide_border=true&bg_color=FFF5F5&title_color=FF6B6B&icon_color=FF9A8B&text_color=6B5B5B&count_private=true&border_radius=15" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=phiesanggoreng&theme=rose&hide_border=true&background=FFF5F5&ring=FF6B6B&fire=FF9A8B&currStreakLabel=FF6B6B&sideNums=6B5B5B&currStreakNum=FF6B6B&dates=6B5B5B&sideLabels=FF6B6B&border_radius=15" alt="GitHub Streak"/>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phiesanggoreng&show_icons=true&theme=rose&hide_border=true&bg_color=FFF5F5&title_color=FF6B6B&icon_color=FF9A8B&text_color=6B5B5B&count_private=true&include_all_commits=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=phiesanggoreng&theme=rose&hide_border=true&background=FFF5F5&ring=FF6B6B&fire=FF9A8B&currStreakLabel=FF6B6B&sideNums=6B5B5B&currStreakNum=FF6B6B&dates=6B5B5B&sideLabels=FF6B6B)
+
 </div>
 
 <br/>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phiesanggoreng&layout=compact&theme=rose&hide_border=true&bg_color=FFF5F5&title_color=FF6B6B&text_color=6B5B5B&langs_count=8&border_radius=15" alt="Top Languages"/>
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phiesanggoreng&layout=compact&theme=rose&hide_border=true&bg_color=FFF5F5&title_color=FF6B6B&text_color=6B5B5B&langs_count=8)
+
 </p>
 
 ---
@@ -93,9 +98,7 @@ fun_fact: "Baby steps lead to giant leaps! 👣➡️🚀"
 
 ## 🌅 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phiesanggoreng&theme=github-compact&bg_color=FFF5F5&color=FF6B6B&line=FF9A8B&point=FFD93D&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Activity Graph"/>
-</p>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=phiesanggoreng&custom_title=Contribution%20Activity&bg_color=FFF5F5&color=FF6B6B&line=FF9A8B&point=FFD93D&area_color=FFB6C1&area=true&hide_border=true)](https://github.com/phiesanggoreng)
 
 ---
 
